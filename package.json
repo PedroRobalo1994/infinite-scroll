@@ -1,0 +1,22 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroRobalo1994/infinite-scroll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroRobalo1994/infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/PedroRobalo1994/infinite-scroll#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
